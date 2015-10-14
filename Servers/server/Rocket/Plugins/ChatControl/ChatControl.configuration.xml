@@ -19,6 +19,11 @@
     <string>админ хуй</string>
 	<string>витон хуй</string>
 	<string>тигер хуй</string>
+	<string>can i get admin</string>
+	<string>дайте админку</string>
+	<string>можно админку ?</string>
+	<string>дайте админку пожалуйста</string>
+	<string>админ го в скайп</string>
   </Badwords>
   <WarningsBeforeMute>3</WarningsBeforeMute>
   <WarningsBeforeKick>5</WarningsBeforeKick>
