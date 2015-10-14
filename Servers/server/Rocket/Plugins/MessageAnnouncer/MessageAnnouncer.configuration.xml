@@ -7,7 +7,7 @@
     <Message Text="In which you can see the server rules." Color="Green" />
     <Message Text="If you like the server can help him by purchasing the privilege!" Color="Green" />
     <Message Text="Regarding the aid, Donat, create a faction,write Tiger" Color="Red" />
-    <Message Text="Check the list of administrators:/adminstators" Color="Green" />
+    <Message Text="Check the list of administrators:/adminstrators" Color="Green" />
     <Message Text="Check the list of factions:/fraction" Color="Green" />
     <Message Text="VIP players get a list with the command:/vips" Color="Green" />
     <Message Text="If you can not see the airplane, then set the detail on ultra!" Color="Green" />
@@ -20,8 +20,9 @@
     <Message Text="Проверить список администраторов командой:/админы" Color="Green" />
     <Message Text="Проверить список фракций можна командой:/фракция" Color="Green" />
     <Message Text="Узнать список вип игроков можна командой:/випы" Color="Green" />
-    <Message Text="Если вы не видите самолет который сбрасывает аирдроп установите детализацию на ультра!" Color="Green" />
-    <Message Text="Удачи!" Color="Green" />
+    <Message Text="Если вы не видите самолет который сбрасывает аирдроп установите..." Color="Green" />
+    <Message Text="....детализацию на ультра!" Color="Green" />   
+	<Message Text="Удачной игры!" Color="Green" />
   </Messages>
   <TextCommands>
     <TextCommand>
@@ -62,7 +63,7 @@
       </Text>
     </TextCommand>
     <TextCommand>
-      <Name>admin</Name>
+      <Name>adminstrators</Name>
       <Help>Admins</Help>
       <Text>
         <Line>Tiger-creator</Line>

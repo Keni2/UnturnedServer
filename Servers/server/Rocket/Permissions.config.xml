@@ -7,13 +7,13 @@
       <DisplayName>Group</DisplayName>
       <Members />
       <Commands>
-        <Command>givekit.onjoin.Start</Command>
+        <Command>kit.Start</Command>
         <Command>reward</Command>
         <Command>balance</Command>
         <Command>p</Command>
         <Command>pay</Command>
 	<Command>rules</Command>
-    <Command>adminstators</Command>
+    <Command>adminstrators</Command>
 	<Command>fraction</Command>
 	<Command>vip</Command>
 	<Command>правила</Command>
@@ -29,8 +29,7 @@
       <DisplayName>[P.K.S.]</DisplayName>
       <Members />
       <Commands>
-        <Command>givekit</Command>
-        <Command>givekit.1</Command>
+        <Command>kit.1</Command>
       </Commands>
       <ParentGroups />
     </Group>
@@ -39,7 +38,7 @@
       <DisplayName>[P.K.S.]</DisplayName>
       <Members />
       <Commands>
-        <Command>givekit.2</Command>
+        <Command>kit.2</Command>
         <Command>color.Red</Command>
       </Commands>
       <ParentGroups />
@@ -49,7 +48,7 @@
       <DisplayName>[P.K.S.]</DisplayName>
       <Members />
       <Commands>
-        <Command>givekit.3</Command>
+        <Command>kit.3</Command>
         <Command>color.Red</Command>
       </Commands>
       <ParentGroups />
@@ -62,8 +61,7 @@
 		<Member>Viton_E</Member>
       </Members>
       <Commands>
-        <Command>givekit</Command>
-        <Command>givekit.4</Command>
+        <Command>kit.4</Command>
         <Command>p</Command>
         <Command>color.Red</Command>
       </Commands>
@@ -75,14 +73,14 @@
       <Members />
       <Commands>
         <Command>vehicle.52</Command>
-        <Command>givekit.1</Command>
-        <Command>givekit.2</Command>
-        <Command>givekit.3</Command>
-        <Command>givekit.4</Command>
+        <Command>kit.1</Command>
+        <Command>kit.2</Command>
+        <Command>kit.3</Command>
+        <Command>kit.4</Command>
         <Command>anti-kos.imune</Command>
-        <Command>givekit</Command>
+        <Command>kit.*"</Command>
         <Command>wreck</Command>
-        <Command>givekit.share</Command>
+        <Command>kit.share</Command>
         <Command>jail</Command>
         <Command>p</Command>
       </Commands>
@@ -93,7 +91,7 @@
       <DisplayName>Vip Silver</DisplayName>
       <Members />
       <Commands>
-        <Command>givekit.Vip1</Command>
+        <Command>kit.Vip1</Command>
         <Command>color.Silver</Command>
       </Commands>
       <ParentGroups />
@@ -103,7 +101,7 @@
       <DisplayName>Vip Gold</DisplayName>
       <Members />
       <Commands>
-        <Command>givekit.Vip2</Command>
+        <Command>kit.Vip2</Command>
         <Command>color.Gold</Command>
       </Commands>
       <ParentGroups />
@@ -113,7 +111,7 @@
       <DisplayName>Vip Daymond</DisplayName>
       <Members />
       <Commands>
-        <Command>givekit.Vip3</Command>
+        <Command>kit.Vip3</Command>
         <Command>color.Blue</Command>
       </Commands>
       <ParentGroups />
