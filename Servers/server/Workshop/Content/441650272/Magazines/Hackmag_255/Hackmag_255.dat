@@ -1,0 +1,190 @@
+Type Magazine
+ID 29657
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 255
+Count_Min 255
+Count_Max 255
+
+Calibers 21
+Caliber_0 1
+Caliber_1 2
+Caliber_2 3
+Caliber_3 4
+Caliber_4 5
+Caliber_5 6
+Caliber_6 7
+Caliber_7 8
+Caliber_8 9
+Caliber_9 10
+Caliber_10 11
+Caliber_11 12
+Caliber_12 13
+Caliber_13 14
+Caliber_14 15
+Caliber_15 16
+Caliber_16 17
+Caliber_17 18
+Caliber_18 19
+Caliber_19 20
+Caliber_20 100
+
+Recoil_X 0.0
+Recoil_Y 0.0
+Spread 0.0
+Shake 0.0
+Damage 100.0
+
+Pellets 10
+
+Blueprints 29
+
+Blueprint_0_Type ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 43
+Blueprint_0_Build 30
+
+Blueprint_1_Type ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 44
+Blueprint_1_Build 30
+
+Blueprint_2_Type ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 119
+Blueprint_2_Build 30
+
+Blueprint_3_Type ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 6
+Blueprint_3_Build 30
+
+Blueprint_4_Type ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 29657
+Blueprint_4_Build 30
+
+Blueprint_5_Type ammo
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 108
+Blueprint_5_Build 30
+
+Blueprint_6_Type ammo
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 100
+Blueprint_6_Build 30
+
+Blueprint_7_Type ammo
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 98
+Blueprint_7_Build 30
+
+Blueprint_8_Type ammo
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 489
+Blueprint_8_Build 30
+
+Blueprint_9_Type ammo
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 133
+Blueprint_9_Build 30
+
+Blueprint_10_Type ammo
+Blueprint_10_Supplies 1
+Blueprint_10_Supply_0_ID 298
+Blueprint_10_Build 30
+
+Blueprint_11_Type ammo
+Blueprint_11_Supplies 1
+Blueprint_11_Supply_0_ID 111
+Blueprint_11_Build 30
+
+Blueprint_12_Type ammo
+Blueprint_12_Supplies 1
+Blueprint_12_Supply_0_ID 17
+Blueprint_12_Build 30
+
+Blueprint_13_Type ammo
+Blueprint_13_Supplies 1
+Blueprint_13_Supply_0_ID 127
+Blueprint_13_Build 30
+
+Blueprint_14_Type ammo
+Blueprint_14_Supplies 1
+Blueprint_14_Supply_0_ID 123
+Blueprint_14_Build 30
+
+Blueprint_15_Type ammo
+Blueprint_15_Supplies 1
+Blueprint_15_Supply_0_ID 125
+Blueprint_15_Build 30
+
+Blueprint_16_Type ammo
+Blueprint_16_Supplies 1
+Blueprint_16_Supply_0_ID 478
+Blueprint_16_Build 30
+
+Blueprint_17_Type ammo
+Blueprint_17_Supplies 1
+Blueprint_17_Supply_0_ID 103
+Blueprint_17_Build 30
+
+Blueprint_18_Type ammo
+Blueprint_18_Supplies 1
+Blueprint_18_Supply_0_ID 381
+Blueprint_18_Build 30
+
+Blueprint_19_Type ammo
+Blueprint_19_Supplies 1
+Blueprint_19_Supply_0_ID 113
+Blueprint_19_Build 30
+
+Blueprint_20_Type ammo
+Blueprint_20_Supplies 1
+Blueprint_20_Supply_0_ID 130
+Blueprint_20_Build 30
+
+Blueprint_21_Type ammo
+Blueprint_21_Supplies 1
+Blueprint_21_Supply_0_ID 485
+Blueprint_21_Build 30
+
+Blueprint_22_Type ammo
+Blueprint_22_Supplies 1
+Blueprint_22_Supply_0_ID 20
+Blueprint_22_Build 30
+
+Blueprint_23_Type ammo
+Blueprint_23_Supplies 1
+Blueprint_23_Supply_0_ID 347
+Blueprint_23_Build 30
+
+Blueprint_24_Type ammo
+Blueprint_24_Supplies 1
+Blueprint_24_Supply_0_ID 351
+Blueprint_24_Build 30
+
+Blueprint_25_Type ammo
+Blueprint_25_Supplies 1
+Blueprint_25_Supply_0_ID 348
+Blueprint_25_Build 30
+
+Blueprint_26_Type ammo
+Blueprint_26_Supplies 1
+Blueprint_26_Supply_0_ID 352
+Blueprint_26_Build 30
+
+Blueprint_27_Type ammo
+Blueprint_27_Supplies 1
+Blueprint_27_Supply_0_ID 520
+Blueprint_27_Build 30
+
+Blueprint_28_Type Tool
+Blueprint_28_Supplies 1
+Blueprint_28_Supply_0_ID 66
+Blueprint_28_Tool 29659
+Blueprint_28_Products 1
+Blueprint_28_Build 27

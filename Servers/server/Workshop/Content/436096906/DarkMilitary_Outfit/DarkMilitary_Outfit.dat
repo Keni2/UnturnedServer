@@ -1,0 +1,18 @@
+Type Supply
+ID 51626
+
+Size_X 1
+Size_Y 1
+Size_Z 0.5
+
+Width 5
+Height 7
+
+Armor 0.7
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 51626
+Blueprint_0_Product 51621
+Blueprint_0_Products 4
+Blueprint_0_Build 27

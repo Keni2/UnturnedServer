@@ -1,0 +1,37 @@
+Type Supply
+ID 51538
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Blueprints 5
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 51538
+Blueprint_0_Product 161
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_1_Type Apparel
+Blueprint_1_Supply_0_ID 51538
+Blueprint_1_Product 217
+Blueprint_1_Products 1
+Blueprint_1_Build 27
+Blueprint_2_Type Apparel
+Blueprint_2_Supply_0_ID 51538
+Blueprint_2_Product 236
+Blueprint_2_Products 1
+Blueprint_2_Build 27
+Blueprint_3_Type Apparel
+Blueprint_3_Supply_0_ID 51538
+Blueprint_3_Product 436
+Blueprint_3_Products 1
+Blueprint_3_Build 27
+Blueprint_4_Type Apparel
+Blueprint_4_Supplies 4
+Blueprint_4_Supply_0_ID 161
+Blueprint_4_Supply_1_ID 217
+Blueprint_4_Supply_2_ID 236
+Blueprint_4_Supply_3_ID 436
+Blueprint_4_Product 51539
+Blueprint_4_Products 1
+Blueprint_4_Build 27

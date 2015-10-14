@@ -1,0 +1,20 @@
+Type Supply
+ID 51603
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 51603
+Blueprint_0_Product 51602
+Blueprint_0_Products 4
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 51603
+Blueprint_1_Supply_1_ID 51624
+Blueprint_1_Product 51632
+Blueprint_1_Products 1
+Blueprint_1_Build 27

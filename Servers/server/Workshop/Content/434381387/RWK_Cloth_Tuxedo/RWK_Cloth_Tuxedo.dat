@@ -1,0 +1,25 @@
+Type Supply
+ID 51532
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Blueprints 3
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 51532
+Blueprint_0_Product 24
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_1_Type Apparel
+Blueprint_1_Supply_0_ID 51532
+Blueprint_1_Product 23
+Blueprint_1_Products 1
+Blueprint_1_Build 27
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 24
+Blueprint_2_Supply_1_ID 23
+Blueprint_2_Product 51533
+Blueprint_2_Products 1
+Blueprint_2_Build 27

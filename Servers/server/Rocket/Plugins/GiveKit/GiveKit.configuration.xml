@@ -20,7 +20,7 @@
         <Item id="108" amount="2" />
         <Item id="146" amount="1" />
       </Items>
-      <Cooldown>1E+50</Cooldown>
+      <Cooldown>999999999999999999999999999999999</Cooldown>
     </Kit>
     <Kit>
       <Name>1</Name>
@@ -166,7 +166,7 @@
       <Cooldown>1200</Cooldown>
     </Kit>
   </Kits>
-  <GlobalCooldown>5</GlobalCooldown>
+  <GlobalCooldown>10</GlobalCooldown>
   <StripBeforeGiving>true</StripBeforeGiving>
   <ResetCooldownOnDeath>false</ResetCooldownOnDeath>
 </GiveKitConfiguration>

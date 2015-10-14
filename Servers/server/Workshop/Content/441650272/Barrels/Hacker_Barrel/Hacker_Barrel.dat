@@ -1,0 +1,47 @@
+Type Barrel
+ID 29660
+
+Size_X 1
+Size_Y 1
+Size_Z 0.125
+
+Calibers 21
+Caliber_0 1
+Caliber_1 2
+Caliber_2 3
+Caliber_3 4
+Caliber_4 5
+Caliber_5 6
+Caliber_6 7
+Caliber_7 8
+Caliber_8 9
+Caliber_9 10
+Caliber_10 11
+Caliber_11 12
+Caliber_12 13
+Caliber_13 14
+Caliber_14 15
+Caliber_15 16
+Caliber_16 17
+Caliber_17 18
+Caliber_18 19
+Caliber_19 20
+Caliber_20 100
+
+Braked
+Silenced 
+Volume 0.0
+
+Recoil_X 0.0
+Recoil_Y 0.0
+Spread 0.0
+Shake 0.0
+Damage 100.0
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 29659
+Blueprint_0_Build 27

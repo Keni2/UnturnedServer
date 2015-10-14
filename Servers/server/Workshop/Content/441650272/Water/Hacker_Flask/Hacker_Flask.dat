@@ -1,0 +1,25 @@
+Type Water
+Useable Consumeable
+ID 29658
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Aid
+Bleeding
+Broken
+Food 100
+Water 100
+Energy 100
+Health 100
+Disinfectant 100
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 29659
+Blueprint_0_Products 5
+Blueprint_0_Build 27

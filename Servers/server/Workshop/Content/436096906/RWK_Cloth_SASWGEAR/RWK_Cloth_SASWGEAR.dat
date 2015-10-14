@@ -1,0 +1,54 @@
+Type Supply
+ID 51634
+
+Size_X 1
+Size_Y 1
+Size_Z 0.5
+
+Width 5
+Height 7
+
+Armor 0.7
+
+Blueprints 7
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 51634
+Blueprint_0_Product 51275
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+Blueprint_1_Type Apparel
+Blueprint_1_Supply_0_ID 51634
+Blueprint_1_Product 51276
+Blueprint_1_Products 1
+Blueprint_1_Build 27
+Blueprint_2_Type Apparel
+Blueprint_2_Supply_0_ID 51634
+Blueprint_2_Product 51277
+Blueprint_2_Products 1
+Blueprint_2_Build 27
+Blueprint_3_Type Apparel
+Blueprint_3_Supply_0_ID 51634
+Blueprint_3_Product 51274
+Blueprint_3_Products 1
+Blueprint_3_Build 27
+Blueprint_4_Type Apparel
+Blueprint_4_Supply_0_ID 51634
+Blueprint_4_Product 51625
+Blueprint_4_Products 1
+Blueprint_4_Build 27
+Blueprint_5_Type Apparel
+Blueprint_5_Supply_0_ID 51634
+Blueprint_5_Product 51619
+Blueprint_5_Products 1
+Blueprint_5_Build 27
+Blueprint_6_Type Apparel
+Blueprint_6_Supplies 6
+Blueprint_6_Supply_0_ID 51275
+Blueprint_6_Supply_1_ID 51276
+Blueprint_6_Supply_2_ID 51277
+Blueprint_6_Supply_3_ID 51274
+Blueprint_6_Supply_4_ID 51625
+Blueprint_6_Supply_5_ID 51619
+Blueprint_6_Product 51637
+Blueprint_6_Products 1
+Blueprint_6_Build 27
