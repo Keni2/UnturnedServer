@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RocketPermissions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DefaultGroupId>454</DefaultGroupId>
+  <Groups>
+    <Group>
+      <Id>454</Id>
+      <DisplayName>Group</DisplayName>
+      <Members />
+      <Commands>
+        <Command>givekit.onjoin.Start</Command>
+        <Command>reward</Command>
+        <Command>balance</Command>
+        <Command>p</Command>
+        <Command>pay</Command>
+	<Command>rules</Command>
+    <Command>adminstators</Command>
+	<Command>fraction</Command>
+	<Command>vip</Command>
+	<Command>правила</Command>
+	<Command>админы</Command>
+	<Command>фракция</Command>
+	<Command>випы</Command>
+	<Command></Command>
+      </Commands>
+      <ParentGroups />
+    </Group>
+    <Group>
+      <Id>Скаут</Id>
+      <DisplayName>[P.K.S.]</DisplayName>
+      <Members />
+      <Commands>
+        <Command>givekit</Command>
+        <Command>givekit.1</Command>
+      </Commands>
+      <ParentGroups />
+    </Group>
+    <Group>
+      <Id>Рекрут</Id>
+      <DisplayName>[P.K.S.]</DisplayName>
+      <Members />
+      <Commands>
+        <Command>givekit.2</Command>
+        <Command>color.Red</Command>
+      </Commands>
+      <ParentGroups />
+    </Group>
+    <Group>
+      <Id>Лейтенант</Id>
+      <DisplayName>[P.K.S.]</DisplayName>
+      <Members />
+      <Commands>
+        <Command>givekit.3</Command>
+        <Command>color.Red</Command>
+      </Commands>
+      <ParentGroups />
+    </Group>
+    <Group>
+      <Id>Авторитет</Id>
+      <DisplayName>[P.K.S.]</DisplayName>
+      <Members>
+        <Member>76561198099235050</Member>
+		<Member>Viton_E</Member>
+      </Members>
+      <Commands>
+        <Command>givekit</Command>
+        <Command>givekit.4</Command>
+        <Command>p</Command>
+        <Command>color.Red</Command>
+      </Commands>
+      <ParentGroups />
+    </Group>
+    <Group>
+      <Id>Admins</Id>
+      <DisplayName>[Admins Team]</DisplayName>
+      <Members />
+      <Commands>
+        <Command>vehicle.52</Command>
+        <Command>givekit.1</Command>
+        <Command>givekit.2</Command>
+        <Command>givekit.3</Command>
+        <Command>givekit.4</Command>
+        <Command>anti-kos.imune</Command>
+        <Command>givekit</Command>
+        <Command>wreck</Command>
+        <Command>givekit.share</Command>
+        <Command>jail</Command>
+        <Command>p</Command>
+      </Commands>
+      <ParentGroups />
+    </Group>
+    <Group>
+      <Id>Vip Silver</Id>
+      <DisplayName>Vip Silver</DisplayName>
+      <Members />
+      <Commands>
+        <Command>givekit.Vip1</Command>
+        <Command>color.Silver</Command>
+      </Commands>
+      <ParentGroups />
+    </Group>
+    <Group>
+      <Id>Vip Gold</Id>
+      <DisplayName>Vip Gold</DisplayName>
+      <Members />
+      <Commands>
+        <Command>givekit.Vip2</Command>
+        <Command>color.Gold</Command>
+      </Commands>
+      <ParentGroups />
+    </Group>
+    <Group>
+      <Id>Vip Daymond</Id>
+      <DisplayName>Vip Daymond</DisplayName>
+      <Members />
+      <Commands>
+        <Command>givekit.Vip3</Command>
+        <Command>color.Blue</Command>
+      </Commands>
+      <ParentGroups />
+    </Group>
+  </Groups>
+</RocketPermissions>

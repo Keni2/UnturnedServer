@@ -1,0 +1,49 @@
+[10/13/2015 7:41:05 PM] [Info] Loading plugin: AutoShutdown2
+[10/13/2015 7:41:05 PM] [Info] AutoShutdown2 >>  Version 0.5.1 loaded.
+[10/13/2015 7:41:05 PM] [Info] Loading plugin: ChatControl
+[10/13/2015 7:41:05 PM] [Info] Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[10/13/2015 7:41:05 PM] [Info] Loading plugin: Kits
+[10/13/2015 7:41:05 PM] [Info] Loading plugin: MessageAnnouncer
+[10/13/2015 7:41:05 PM] [Info] MessageAnnouncer >> Load
+[10/13/2015 7:41:05 PM] [Info] Loading plugin: ZaupClearInventoryLib
+[10/13/2015 7:41:05 PM] [Info] Loading plugin: ZaupFeast
+[10/13/2015 7:41:05 PM] [Info] ZaupFeast >> The next feast will be at Tignish Farm at 10/13/2015 8:11:05 PM
+[10/13/2015 7:41:05 PM] [Info] This server will automatically save every 1800 seconds
+[10/13/2015 7:41:06 PM] [Info] MessageAnnouncer >> Welcome to our server
+[10/13/2015 7:41:31 PM] [Info] Connecting: PlayerID: 76561198167532623 Name: Keni2 Character: TIger_off
+[10/13/2015 7:41:37 PM] [Info] [World] TIger_off [Keni2]: "124124"
+[10/13/2015 7:41:58 PM] [Info] [Area] TIger_off [Keni2]: "/help"
+[10/13/2015 7:42:01 PM] [Info] [World] TIger_off [Keni2]: "/give"
+[10/13/2015 7:42:01 PM] [Error] Failed to find parameters in format [SteamID | Player]/[ItemID]/[Amount].
+[10/13/2015 7:42:06 PM] [Info] MessageAnnouncer >> On our server there that command:/rules!
+[10/13/2015 7:42:07 PM] [Info] [World] TIger_off [Keni2]: "/day"
+[10/13/2015 7:42:07 PM] [Info] Successfully set time to day!
+[10/13/2015 7:42:15 PM] [Info] [Area] TIger_off [Keni2]: "/kits"
+[10/13/2015 7:42:20 PM] [Info] [World] TIger_off [Keni2]: "/правила"
+[10/13/2015 7:43:06 PM] [Info] MessageAnnouncer >> In which you can see the server rules.
+[10/13/2015 7:44:06 PM] [Info] MessageAnnouncer >> If you like the server can help him by purchasing the privilege!
+[10/13/2015 7:44:10 PM] [Info] [World] TIger_off [Keni2]: "fuck"
+[10/13/2015 7:44:51 PM] [Info] [World] TIger_off [Keni2]: "fuck"
+[10/13/2015 7:45:02 PM] [Info] [World] TIger_off [Keni2]: "g4"
+[10/13/2015 7:45:06 PM] [Info] MessageAnnouncer >> Regarding the aid, Donat, create a faction,write Tiger
+[10/13/2015 7:45:32 PM] [Info] [World] TIger_off [Keni2]: "12341"
+[10/13/2015 7:45:39 PM] [Info] [World] TIger_off [Keni2]: "124155 fucj"
+[10/13/2015 7:45:44 PM] [Info] [Area] TIger_off [Keni2]: "12412541455 fuck"
+[10/13/2015 7:46:06 PM] [Info] MessageAnnouncer >> Check the list of administrators:/admin
+[10/13/2015 7:47:06 PM] [Info] MessageAnnouncer >> Check the list of factions:/fraction
+[10/13/2015 7:48:06 PM] [Info] MessageAnnouncer >> VIP players get a list with the command:/vips
+[10/13/2015 7:48:24 PM] [Info] [World] TIger_off [Keni2]: "/pravila"
+[10/13/2015 7:49:06 PM] [Info] MessageAnnouncer >> If you can not see the airplane, then set the detail on ultra!
+[10/13/2015 7:50:06 PM] [Info] MessageAnnouncer >> Good luck!
+[10/13/2015 7:51:06 PM] [Info] MessageAnnouncer >> Добро пожаловать на наш сервер
+[10/13/2015 7:52:06 PM] [Info] MessageAnnouncer >> На нашем сервере есть команда:/pravila!
+[10/13/2015 7:53:06 PM] [Info] MessageAnnouncer >> В котором вы можете ознакомиться с правилами сервера.
+[10/13/2015 7:54:06 PM] [Info] MessageAnnouncer >> Если вам понравилась сервер может помочь ему купив привилегию!
+[10/13/2015 7:55:06 PM] [Info] MessageAnnouncer >> Что касается помощи, Доната, создания фракции, писать Tiger
+[10/13/2015 7:56:07 PM] [Info] Unloading plugin: Kits
+[10/13/2015 7:56:07 PM] [Info] Unloading plugin: ZaupFeast
+[10/13/2015 7:56:07 PM] [Info] Unloading plugin: ChatControl
+[10/13/2015 7:56:07 PM] [Info] Unloading plugin: ZaupClearInventoryLib
+[10/13/2015 7:56:07 PM] [Info] Unloading plugin: MessageAnnouncer
+[10/13/2015 7:56:07 PM] [Info] MessageAnnouncer >> Unload
+[10/13/2015 7:56:07 PM] [Info] Unloading plugin: AutoShutdown2

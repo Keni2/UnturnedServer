@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KitsConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kits>
+    <Kit>
+      <Name>Start</Name>
+      <Items>
+        <Item id="251" amount="1" />
+        <Item id="179" amount="1" />
+        <Item id="177" amount="1" />
+        <Item id="190" amount="1" />
+        <Item id="198" amount="1" />
+        <Item id="209" amount="1" />
+        <Item id="394" amount="2" />
+        <Item id="221" amount="1" />
+        <Item id="261" amount="1" />
+        <Item id="479" amount="1" />
+        <Item id="107" amount="1" />
+        <Item id="478" amount="4" />
+        <Item id="108" amount="2" />
+        <Item id="146" amount="1" />
+      </Items>
+      <Cooldown>1E+50</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>1</Name>
+      <Items>
+        <Item id="51681" amount="1" />
+        <Item id="51682" amount="1" />
+        <Item id="51683" amount="1" />
+        <Item id="51684" amount="1" />
+        <Item id="121" amount="1" />
+        <Item id="129" amount="1" />
+        <Item id="21" amount="1" />
+        <Item id="143" amount="1" />
+        <Item id="151" amount="1" />
+        <Item id="130" amount="1" />
+        <Item id="51625" amount="1" />
+        <Item id="57714" amount="1" />
+        <Item id="119" amount="2" />
+        <Item id="337" amount="1" />
+      </Items>
+      <Cooldown>604800</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>2</Name>
+      <Items>
+        <Item id="178" amount="1" />
+        <Item id="179" amount="1" />
+        <Item id="190" amount="1" />
+        <Item id="198" amount="1" />
+        <Item id="205" amount="1" />
+        <Item id="221" amount="1" />
+        <Item id="231" amount="1" />
+        <Item id="121" amount="1" />
+        <Item id="99" amount="1" />
+        <Item id="100" amount="1" />
+        <Item id="44" amount="1" />
+        <Item id="7" amount="1" />
+        <Item id="152" amount="2" />
+        <Item id="337" amount="1" />
+      </Items>
+      <Cooldown>604800</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>3</Name>
+      <Items>
+        <Item id="51681" amount="1" />
+        <Item id="51682" amount="1" />
+        <Item id="51683" amount="1" />
+        <Item id="51684" amount="1" />
+        <Item id="57714" amount="1" />
+        <Item id="51625" amount="1" />
+        <Item id="488" amount="1" />
+        <Item id="478" amount="2" />
+        <Item id="43" amount="1" />
+        <Item id="490" amount="1" />
+        <Item id="141" amount="1" />
+        <Item id="138" amount="1" />
+        <Item id="277" amount="1" />
+        <Item id="28" amount="2" />
+        <Item id="78" amount="1" />
+        <Item id="337" amount="1" />
+      </Items>
+      <Cooldown>604800</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Admins1</Name>
+      <Items>
+        <Item id="51274" amount="1" />
+        <Item id="51275" amount="1" />
+        <Item id="51276" amount="1" />
+        <Item id="51277" amount="1" />
+        <Item id="29650" amount="1" />
+        <Item id="29652" amount="1" />
+        <Item id="29657" amount="15" />
+      </Items>
+      <Cooldown>10</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Tiger</Name>
+      <Items>
+        <Item id="51274" amount="1" />
+        <Item id="7581" amount="1" />
+        <Item id="51276" amount="1" />
+        <Item id="51277" amount="1" />
+        <Item id="29650" amount="1" />
+        <Item id="29652" amount="1" />
+        <Item id="29657" amount="15" />
+        <Item id="50275" amount="1" />
+        <Item id="51624" amount="1" />
+      </Items>
+      <Cooldown>10</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Adm_St</Name>
+      <Items>
+        <Item id="29650" amount="1" />
+        <Item id="29653" amount="1" />
+        <Item id="29654" amount="1" />
+        <Item id="29655" amount="1" />
+        <Item id="29656" amount="1" />
+      </Items>
+      <Cooldown>10</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Tima</Name>
+      <Items>
+        <Item id="59274" amount="1" />
+        <Item id="59275" amount="1" />
+        <Item id="59276" amount="1" />
+        <Item id="59277" amount="1" />
+        <Item id="29650" amount="1" />
+        <Item id="51625" amount="1" />
+      </Items>
+      <Cooldown>10</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Vip1</Name>
+      <Items>
+        <Item id="303" amount="1" />
+        <Item id="304" amount="1" />
+        <Item id="218" amount="1" />
+        <Item id="195" amount="1" />
+      </Items>
+      <Cooldown>3600</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Vip2</Name>
+      <Items>
+        <Item id="303" amount="1" />
+        <Item id="304" amount="1" />
+        <Item id="218" amount="1" />
+        <Item id="195" amount="1" />
+      </Items>
+      <Cooldown>2400</Cooldown>
+    </Kit>
+    <Kit>
+      <Name>Vip3</Name>
+      <Items>
+        <Item id="303" amount="1" />
+        <Item id="304" amount="1" />
+        <Item id="218" amount="1" />
+        <Item id="195" amount="1" />
+      </Items>
+      <Cooldown>1200</Cooldown>
+    </Kit>
+  </Kits>
+  <GlobalCooldown>1</GlobalCooldown>
+</KitsConfiguration>

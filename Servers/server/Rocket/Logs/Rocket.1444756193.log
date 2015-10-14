@@ -1,0 +1,28 @@
+[10/13/2015 8:06:31 PM] [Info] Loading plugin: AutoShutdown2
+[10/13/2015 8:06:31 PM] [Info] AutoShutdown2 >>  Version 0.5.1 loaded.
+[10/13/2015 8:06:31 PM] [Info] Loading plugin: ChatControl
+[10/13/2015 8:06:31 PM] [Info] Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[10/13/2015 8:06:31 PM] [Info] Loading plugin: Kits
+[10/13/2015 8:06:32 PM] [Info] Loading plugin: MessageAnnouncer
+[10/13/2015 8:06:32 PM] [Info] MessageAnnouncer >> Load
+[10/13/2015 8:06:32 PM] [Info] Loading plugin: ZaupClearInventoryLib
+[10/13/2015 8:06:32 PM] [Info] Loading plugin: ZaupFeast
+[10/13/2015 8:06:32 PM] [Info] ZaupFeast >> The next feast will be at Stratford at 10/13/2015 8:36:42 PM
+[10/13/2015 8:06:32 PM] [Info] This server will automatically save every 1800 seconds
+[10/13/2015 8:06:33 PM] [Info] MessageAnnouncer >> Welcome to our server
+[10/13/2015 8:06:54 PM] [Info] Connecting: PlayerID: 76561198167532623 Name: Keni2 Character: TIger_off
+[10/13/2015 8:07:02 PM] [Info] [World] TIger_off [Keni2]: "/help"
+[10/13/2015 8:07:33 PM] [Info] MessageAnnouncer >> On our server there that command:/rules!
+[10/13/2015 8:07:54 PM] [Info] [World] TIger_off [Keni2]: "/vip"
+[10/13/2015 8:08:05 PM] [Info] [World] TIger_off [Keni2]: "/rules"
+[10/13/2015 8:08:11 PM] [Info] [World] TIger_off [Keni2]: "/help"
+[10/13/2015 8:08:17 PM] [Info] [World] TIger_off [Keni2]: "124124"
+[10/13/2015 8:08:33 PM] [Info] MessageAnnouncer >> In which you can see the server rules.
+[10/13/2015 8:09:33 PM] [Info] MessageAnnouncer >> If you like the server can help him by purchasing the privilege!
+[10/13/2015 8:09:39 PM] [Info] Unloading plugin: Kits
+[10/13/2015 8:09:39 PM] [Info] Unloading plugin: ZaupFeast
+[10/13/2015 8:09:39 PM] [Info] Unloading plugin: ChatControl
+[10/13/2015 8:09:39 PM] [Info] Unloading plugin: ZaupClearInventoryLib
+[10/13/2015 8:09:39 PM] [Info] Unloading plugin: MessageAnnouncer
+[10/13/2015 8:09:39 PM] [Info] MessageAnnouncer >> Unload
+[10/13/2015 8:09:39 PM] [Info] Unloading plugin: AutoShutdown2

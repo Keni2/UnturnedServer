@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoShutdown2Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ShutdownMessageColor>Red</ShutdownMessageColor>
+  <Shutdown_Times>
+    <Shutdown_Time Hour="0" Minute="0" />
+    <Shutdown_Time Hour="12" Minute="0" />
+  </Shutdown_Times>
+  <Shutdown_Warnings>
+    <Shutdown_Warning Hour="0" Minute="55" Message="Automatic shutdown in 5 minutes.|Автоматическое отключение через 5 минут." Color="Green" />
+    <Shutdown_Warning Hour="12" Minute="55" Message="Automatic shutdown in 5 minutes.|Автоматическое отключение через 5 минут." Color="Green" />
+  </Shutdown_Warnings>
+</AutoShutdown2Configuration>

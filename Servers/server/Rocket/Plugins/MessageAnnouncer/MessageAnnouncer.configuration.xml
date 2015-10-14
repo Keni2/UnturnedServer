@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MessageAnnouncerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Interval>30</Interval>
+  <Messages>
+    <Message Text="Welcome to our server" Color="Green" />
+    <Message Text="On our server there that command:/rules!" Color="Green" />
+    <Message Text="In which you can see the server rules." Color="Green" />
+    <Message Text="If you like the server can help him by purchasing the privilege!" Color="Green" />
+    <Message Text="Regarding the aid, Donat, create a faction,write Tiger" Color="Red" />
+    <Message Text="Check the list of administrators:/adminstators" Color="Green" />
+    <Message Text="Check the list of factions:/fraction" Color="Green" />
+    <Message Text="VIP players get a list with the command:/vips" Color="Green" />
+    <Message Text="If you can not see the airplane, then set the detail on ultra!" Color="Green" />
+    <Message Text="Good luck!" Color="Green" />
+    <Message Text="Добро пожаловать на наш сервер" Color="Green" />
+    <Message Text="На нашем сервере есть команда:/правила!" Color="Green" />
+    <Message Text="В котором вы можете ознакомиться с правилами сервера." Color="Green" />
+    <Message Text="Если вам понравился сервер может помочь ему купив привилегию!" Color="Green" />
+    <Message Text="Что касается помощи, Доната, создания фракции, писать Tiger'у" Color="Red" />
+    <Message Text="Проверить список администраторов командой:/админы" Color="Green" />
+    <Message Text="Проверить список фракций можна командой:/фракция" Color="Green" />
+    <Message Text="Узнать список вип игроков можна командой:/випы" Color="Green" />
+    <Message Text="Если вы не видите самолет который сбрасывает аирдроп установите детализацию на ультра!" Color="Green" />
+    <Message Text="Удачи!" Color="Green" />
+  </Messages>
+  <TextCommands>
+    <TextCommand>
+      <Name>rules</Name>
+      <Help>Server rules</Help>
+      <Text>
+        <Line>#1 Flame-abuse is prohibited in any form</Line>
+        <Line>#2 Flood - begging for things / admin without a good reason...</Line>
+        <Line>,a bunch of extra unnecessary obscure posts in chat rooms, and trash</Line>
+        <Line>#3 Spam - Do not spoil the mood of the players from the game</Line>
+        <Line>I am trying to put a ton of server messages, chat or just to litter many times</Line>
+        <Line>#4 Overloading the server - you can not overload the server</Line>
+        <Line>without the permission of the host server, or group development</Line>
+        <Line>#5 Great Northern War - active actions of competitors</Line>
+        <Line> server that harm server will also be stopped</Line>
+      </Text>
+    </TextCommand>
+    <TextCommand>
+      <Name>правила</Name>
+      <Help>Правила сервера</Help>
+      <Text>
+        <Line>#1 Флейм-оск.запрещается в любом формате</Line>
+        <Line>#2 Флуд - выпрашивание вещей/админки без весомой причины...</Line>
+        <Line>,куча лишник непонятных сообщений в любые чаты, и всякий мусор</Line>
+        <Line>#3 Спам -  портить игрокам настроение от игры</Line>
+        <Line>пытаясь положить сервер тонной сообщений, или просто засорять чат много раз</Line>
+        <Line>#4 Перегрузка сервера - нельзя перегружать сервер</Line>
+        <Line>без разрешения хоста сервера, или группы разработки</Line>
+        <Line>#5 Серверная война - Активные действия конкурентов</Line>
+        <Line> сервера, которые вредят серверу будет так же присекаться</Line>
+      </Text>
+    </TextCommand>
+    <TextCommand>
+      <Name>админы</Name>
+      <Help>Админы</Help>
+      <Text>
+        <Line>Tiger-основатель</Line>
+      </Text>
+    </TextCommand>
+    <TextCommand>
+      <Name>admin</Name>
+      <Help>Admins</Help>
+      <Text>
+        <Line>Tiger-creator</Line>
+      </Text>
+    </TextCommand>
+    <TextCommand>
+      <Name>випы</Name>
+      <Help>VIP игроки сервера</Help>
+      <Text>
+        <Line>Пока что никто не купил випку, но вы можете быть первыми и получить бонус</Line>
+      </Text>
+    </TextCommand>
+    <TextCommand>
+      <Name>vip</Name>
+      <Help>Vip players servers</Help>
+      <Text>
+        <Line>So far no one has bought vip, but you can be the first, and get a bonus</Line>
+      </Text>
+    </TextCommand>
+    <TextCommand>
+      <Name>фракция</Name>
+      <Help>Фракции сервера</Help>
+      <Text>
+        <Line>P.K.S Elite.</Line>
+      </Text>
+    </TextCommand>
+    <TextCommand>
+      <Name>fraction</Name>
+      <Help>Fractions server</Help>
+      <Text>
+        <Line>P.K.S Elite.</Line>
+      </Text>
+    </TextCommand>
+  </TextCommands>
+</MessageAnnouncerConfiguration>

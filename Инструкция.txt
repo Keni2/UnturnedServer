@@ -1,0 +1,4 @@
+1-закинуть папку Managed по пути Unturned\Unturned_Data с заменой файлов
+2-папку Servers и €рлык Server закинуть в папку Unturned
+3-запуск сервера осуществл€етс€ через €рлык Server
+						—ервер создал Keni2 или же TIger_off

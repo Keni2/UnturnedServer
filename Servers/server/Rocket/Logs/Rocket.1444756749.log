@@ -1,0 +1,19 @@
+[10/13/2015 8:17:24 PM] [Info] Loading plugin: AutoShutdown2
+[10/13/2015 8:17:24 PM] [Info] AutoShutdown2 >>  Version 0.5.1 loaded.
+[10/13/2015 8:17:24 PM] [Info] Loading plugin: ChatControl
+[10/13/2015 8:17:24 PM] [Info] Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[10/13/2015 8:17:24 PM] [Info] Loading plugin: Kits
+[10/13/2015 8:17:24 PM] [Info] Loading plugin: MessageAnnouncer
+[10/13/2015 8:17:24 PM] [Info] MessageAnnouncer >> Load
+[10/13/2015 8:17:24 PM] [Info] Loading plugin: ZaupClearInventoryLib
+[10/13/2015 8:17:24 PM] [Info] Loading plugin: ZaupFeast
+[10/13/2015 8:17:24 PM] [Info] ZaupFeast >> The next feast will be at Belfast Airport at 10/13/2015 8:47:32 PM
+[10/13/2015 8:17:24 PM] [Info] This server will automatically save every 1800 seconds
+[10/13/2015 8:17:25 PM] [Info] MessageAnnouncer >> Welcome to our server
+[10/13/2015 8:17:51 PM] [Info] Unloading plugin: Kits
+[10/13/2015 8:17:51 PM] [Info] Unloading plugin: ZaupFeast
+[10/13/2015 8:17:51 PM] [Info] Unloading plugin: ChatControl
+[10/13/2015 8:17:51 PM] [Info] Unloading plugin: ZaupClearInventoryLib
+[10/13/2015 8:17:51 PM] [Info] Unloading plugin: MessageAnnouncer
+[10/13/2015 8:17:51 PM] [Info] MessageAnnouncer >> Unload
+[10/13/2015 8:17:51 PM] [Info] Unloading plugin: AutoShutdown2

@@ -1,0 +1,37 @@
+[10/13/2015 8:27:20 PM] [Info] Loading plugin: AutoShutdown2
+[10/13/2015 8:27:20 PM] [Info] AutoShutdown2 >>  Version 0.5.1 loaded.
+[10/13/2015 8:27:20 PM] [Info] Loading plugin: ChatControl
+[10/13/2015 8:27:20 PM] [Info] Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[10/13/2015 8:27:20 PM] [Info] Loading plugin: Kits
+[10/13/2015 8:27:20 PM] [Info] Loading plugin: MessageAnnouncer
+[10/13/2015 8:27:20 PM] [Info] MessageAnnouncer >> Load
+[10/13/2015 8:27:20 PM] [Info] Loading plugin: ZaupClearInventoryLib
+[10/13/2015 8:27:20 PM] [Info] Loading plugin: ZaupFeast
+[10/13/2015 8:27:20 PM] [Info] ZaupFeast >> The next feast will be at Souris Campground at 10/13/2015 8:57:31 PM
+[10/13/2015 8:27:20 PM] [Info] This server will automatically save every 1800 seconds
+[10/13/2015 8:27:21 PM] [Info] MessageAnnouncer >> Welcome to our server
+[10/13/2015 8:27:51 PM] [Info] MessageAnnouncer >> On our server there that command:/rules!
+[10/13/2015 8:28:21 PM] [Info] MessageAnnouncer >> In which you can see the server rules.
+[10/13/2015 8:28:51 PM] [Info] MessageAnnouncer >> If you like the server can help him by purchasing the privilege!
+[10/13/2015 8:29:21 PM] [Info] MessageAnnouncer >> Regarding the aid, Donat, create a faction,write Tiger
+[10/13/2015 8:29:51 PM] [Info] MessageAnnouncer >> Check the list of administrators:/admin
+[10/13/2015 8:30:21 PM] [Info] MessageAnnouncer >> Check the list of factions:/fraction
+[10/13/2015 8:30:34 PM] [Info] Connecting: PlayerID: 76561198167532623 Name: Keni2 Character: TIger_off
+[10/13/2015 8:30:51 PM] [Info] [Area] TIger_off [Keni2]: "/admin"
+[10/13/2015 8:30:51 PM] [Info] MessageAnnouncer >> VIP players get a list with the command:/vips
+[10/13/2015 8:31:21 PM] [Info] MessageAnnouncer >> If you can not see the airplane, then set the detail on ultra!
+[10/13/2015 8:31:32 PM] [Info] [World] TIger_off [Keni2]: "/admin"
+[10/13/2015 8:31:51 PM] [Info] MessageAnnouncer >> Good luck!
+[10/13/2015 8:32:21 PM] [Info] MessageAnnouncer >> Добро пожаловать на наш сервер
+[10/13/2015 8:32:51 PM] [Info] MessageAnnouncer >> На нашем сервере есть команда:/pravila!
+[10/13/2015 8:32:56 PM] [Info] [World] TIger_off [Keni2]: "/fraction"
+[10/13/2015 8:33:21 PM] [Info] MessageAnnouncer >> В котором вы можете ознакомиться с правилами сервера.
+[10/13/2015 8:33:51 PM] [Info] MessageAnnouncer >> Если вам понравился сервер может помочь ему купив привилегию!
+[10/13/2015 8:34:21 PM] [Info] MessageAnnouncer >> Что касается помощи, Доната, создания фракции, писать Tiger
+[10/13/2015 8:34:40 PM] [Info] Unloading plugin: Kits
+[10/13/2015 8:34:40 PM] [Info] Unloading plugin: ZaupFeast
+[10/13/2015 8:34:40 PM] [Info] Unloading plugin: ChatControl
+[10/13/2015 8:34:40 PM] [Info] Unloading plugin: ZaupClearInventoryLib
+[10/13/2015 8:34:40 PM] [Info] Unloading plugin: MessageAnnouncer
+[10/13/2015 8:34:40 PM] [Info] MessageAnnouncer >> Unload
+[10/13/2015 8:34:40 PM] [Info] Unloading plugin: AutoShutdown2

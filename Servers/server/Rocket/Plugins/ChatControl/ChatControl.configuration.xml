@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ChatControlConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AnnounceMute>true</AnnounceMute>
+  <AnnounceUnmute>true</AnnounceUnmute>
+  <Badwords>
+    <string>бля</string>
+    <string>сука</string>
+    <string>нахуй</string>
+    <string>хуй</string>
+    <string>пиздос</string>
+    <string>иди нахуй</string>
+    <string>мудай</string>
+    <string>ёпт</string>
+    <string>ебаный</string>
+    <string>мой сервер</string>
+    <string>сервер говно</string>
+    <string>сервер параша</string>
+    <string>идите нахуй</string>
+    <string>админ хуй</string>
+	<string>витон хуй</string>
+	<string>тигер хуй</string>
+  </Badwords>
+  <WarningsBeforeMute>3</WarningsBeforeMute>
+  <WarningsBeforeKick>5</WarningsBeforeKick>
+  <WarningsBeforeBan>-1</WarningsBeforeBan>
+  <BanDuration>600</BanDuration>
+  <MessageColor>Yellow</MessageColor>
+</ChatControlConfiguration>
