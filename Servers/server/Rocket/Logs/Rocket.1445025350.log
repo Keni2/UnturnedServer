@@ -1,0 +1,5 @@
+[10/16/2015 10:55:40 PM] [Info] MessageAnnouncer >> Welcome to our server
+[10/16/2015 10:55:40 PM] [Info] ZaupFeast >> The skydrop plane bundle is not the server!  Cannot trigger the airdrop animation.  Just sending items.
+[10/16/2015 10:55:40 PM] [Exception] ZaupFeast >> Exception in checkFeast -> Exception in ZaupFeast: System.NullReferenceException: Object reference not set to an instance of an object
+  at ZaupFeast.Feast.runFeast () [0x00000] in <filename unknown>:0 
+  at ZaupFeast.Feast.checkFeast () [0x00000] in <filename unknown>:0 

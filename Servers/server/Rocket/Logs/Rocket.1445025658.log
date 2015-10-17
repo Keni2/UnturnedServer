@@ -1,0 +1,64 @@
+[10/16/2015 10:55:50 PM] [Info] Updating WebXMLFileAsset RocketPermissions from mysql.hostinger.com.ua?instance=server
+[10/16/2015 10:55:50 PM] [Exception] Rocket.CoreException in Rocket.Core: System.Exception: Failed to deserialize WebXMLFileAsset: mysql.hostinger.com.ua?instance=server ---> System.UriFormatException: Invalid URI: The format of the URI could not be determined: mysql.hostinger.com.ua?instance=server
+  at System.Uri..ctor (System.String uriString, Boolean dontEscape) [0x00000] in <filename unknown>:0 
+  at System.Uri..ctor (System.String uriString) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Assets.WebXMLFileAsset`1[Rocket.API.Serialisation.RocketPermissions].Load (Rocket.Core.Assets.AssetLoaded`1 callback, Boolean update) [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at Rocket.Core.Assets.WebXMLFileAsset`1[Rocket.API.Serialisation.RocketPermissions].Load (Rocket.Core.Assets.AssetLoaded`1 callback, Boolean update) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Assets.WebXMLFileAsset`1[Rocket.API.Serialisation.RocketPermissions]..ctor (System.String url, System.Xml.Serialization.XmlRootAttribute attr, Rocket.Core.Assets.AssetLoaded`1 callback) [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Permissions.RocketPermissionsManager.Start () [0x00000] in <filename unknown>:0 
+[10/16/2015 10:55:50 PM] [Error] Invalid or outdated plugin assembly: ApokCore
+[10/16/2015 10:55:50 PM] [Info] Loading plugin: AutoShutdown2
+[10/16/2015 10:55:50 PM] [Info] AutoShutdown2 >>  Version 0.5.1 loaded.
+[10/16/2015 10:55:50 PM] [Info] Loading plugin: ChatControl
+[10/16/2015 10:55:50 PM] [Info] Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[10/16/2015 10:55:50 PM] [Info] Loading plugin: GiveKit
+[10/16/2015 10:55:50 PM] [Error] OverflowException: Value too large or too small. - System.Int32.Parse (System.String s, NumberStyles style, IFormatProvider provider)
+System.Xml.XmlConvert.ToInt32 (System.String s)
+System.Xml.Serialization.XmlCustomFormatter.FromXmlString (System.Xml.Serialization.TypeData type, System.String value)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.GetValueFromXmlString (System.String value, System.Xml.Serialization.TypeData typeData, System.Xml.Serialization.XmlTypeMapping typeMap)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadPrimitiveValue (System.Xml.Serialization.XmlTypeMapElementInfo elem)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObjectElement (System.Xml.Serialization.XmlTypeMapElementInfo elem)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadMembers (System.Xml.Serialization.ClassMap map, System.Object ob, Boolean isValueList, Boolean readByOrder)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstanceMembers (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstance (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObject (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObjectElement (System.Xml.Serialization.XmlTypeMapElementInfo elem)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadListElement (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, System.Object list, Boolean canCreateInstance)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadMembers (System.Xml.Serialization.ClassMap map, System.Object ob, Boolean isValueList, Boolean readByOrder)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstanceMembers (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstance (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObject (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadRoot (System.Xml.Serialization.XmlTypeMapping rootMap)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadRoot ()
+System.Xml.Serialization.XmlSerializer.Deserialize (System.Xml.Serialization.XmlSerializationReader reader)
+Rethrow as Exception: Failed to deserialize XMLFileAsset: Plugins/Kits/Kits.configuration.xml
+Rocket.Core.Assets.XMLFileAsset`1[fr34kyn01535.Kits.KitsConfiguration].Load (Rocket.Core.Assets.AssetLoaded`1 callback, Boolean update)
+Rocket.Core.Assets.XMLFileAsset`1[fr34kyn01535.Kits.KitsConfiguration]..ctor (System.String file, System.Type[] extraTypes, fr34kyn01535.Kits.KitsConfiguration defaultInstance)
+Rocket.Core.Plugins.RocketPlugin`1[TConfiguration].LoadPlugin ()
+Rocket.Core.Plugins.RocketPlugin.OnEnable ()
+UnityEngine.GameObject:.ctor(String, Type[])
+Rocket.Core.Plugins.RocketPluginManager:loadPlugins()
+Rocket.Core.Plugins.RocketPluginManager:Start()
+
+[10/16/2015 10:55:51 PM] [Info] Loading plugin: MessageAnnouncer
+[10/16/2015 10:55:51 PM] [Info] MessageAnnouncer >> Load
+[10/16/2015 10:55:51 PM] [Info] Loading plugin: Uconomy
+[10/16/2015 10:55:51 PM] [Error] Could not find dependency: I18N.West, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756
+[10/16/2015 10:55:51 PM] [Error] Failed to load Uconomy, unloading now... :System.IO.FileNotFoundException: Could not load file or assembly 'I18N.West, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756' or one of its dependencies.
+File name: 'I18N.West, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756'
+  at fr34kyn01535.Uconomy.Uconomy.Load () [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x00000] in <filename unknown>:0 
+[10/16/2015 10:55:51 PM] [Info] Unloading plugin: Uconomy
+[10/16/2015 10:55:51 PM] [Info] Loading plugin: ZaupClearInventoryLib
+[10/16/2015 10:55:51 PM] [Info] Loading plugin: ZaupFeast
+[10/16/2015 10:55:51 PM] [Info] ZaupFeast >> The next feast will be at Souris Campground at 10/16/2015 11:26:01 PM
+[10/16/2015 10:55:51 PM] [Info] This server will automatically save every 1800 seconds
+[10/16/2015 10:55:52 PM] [Info] MessageAnnouncer >> Welcome to our server
+[10/16/2015 10:56:22 PM] [Info] MessageAnnouncer >> On our server there that command:/rules!
+[10/16/2015 10:56:52 PM] [Info] MessageAnnouncer >> In which you can see the server rules.
+[10/16/2015 10:57:22 PM] [Info] MessageAnnouncer >> You can help by purchasing a server privilege!
+[10/16/2015 10:57:52 PM] [Info] MessageAnnouncer >> Regarding the aid, Donat, create a faction,write Tiger
+[10/16/2015 10:58:22 PM] [Info] MessageAnnouncer >> Or write to the VK.ID fill_cross
+[10/16/2015 10:58:52 PM] [Info] MessageAnnouncer >> Check the list of administrators:/adminstrators
+[10/16/2015 10:59:22 PM] [Info] MessageAnnouncer >> Check the list of factions:/fraction

@@ -7,7 +7,7 @@
       <DisplayName>Group</DisplayName>
       <Members />
       <Commands>
-        <Command>givekit.onjoin.Start</Command>
+        <Command>givekit.Start</Command>
         <Command>reward</Command>
         <Command>balance</Command>
         <Command>p</Command>

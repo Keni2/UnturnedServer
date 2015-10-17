@@ -3,7 +3,7 @@
   <RCON Enabled="false" Port="27115" Password="changeme" />
   <AutomaticShutdown Enabled="false" Interval="86400" />
   <WebConfigurations Enabled="false" Url="" />
-  <WebPermissions Enabled="false" Url="" Interval="180" />
+  <WebPermissions Enabled="false" Url="" Interval="60" />
   <LanguageCode>en</LanguageCode>
   <MaxFrames>60</MaxFrames>
 </RocketSettings>

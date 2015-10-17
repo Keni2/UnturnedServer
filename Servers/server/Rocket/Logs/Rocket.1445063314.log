@@ -1,0 +1,51 @@
+[10/17/2015 9:26:45 AM] [Error] Invalid or outdated plugin assembly: ApokCore
+[10/17/2015 9:26:45 AM] [Info] Loading plugin: AutoShutdown2
+[10/17/2015 9:26:45 AM] [Info] AutoShutdown2 >>  Version 0.5.1 loaded.
+[10/17/2015 9:26:45 AM] [Info] Loading plugin: ChatControl
+[10/17/2015 9:26:45 AM] [Info] Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[10/17/2015 9:26:45 AM] [Info] Loading plugin: GiveKit
+[10/17/2015 9:26:45 AM] [Error] OverflowException: Value too large or too small. - System.Int32.Parse (System.String s, NumberStyles style, IFormatProvider provider)
+System.Xml.XmlConvert.ToInt32 (System.String s)
+System.Xml.Serialization.XmlCustomFormatter.FromXmlString (System.Xml.Serialization.TypeData type, System.String value)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.GetValueFromXmlString (System.String value, System.Xml.Serialization.TypeData typeData, System.Xml.Serialization.XmlTypeMapping typeMap)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadPrimitiveValue (System.Xml.Serialization.XmlTypeMapElementInfo elem)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObjectElement (System.Xml.Serialization.XmlTypeMapElementInfo elem)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadMembers (System.Xml.Serialization.ClassMap map, System.Object ob, Boolean isValueList, Boolean readByOrder)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstanceMembers (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstance (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObject (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObjectElement (System.Xml.Serialization.XmlTypeMapElementInfo elem)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadListElement (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, System.Object list, Boolean canCreateInstance)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadMembers (System.Xml.Serialization.ClassMap map, System.Object ob, Boolean isValueList, Boolean readByOrder)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstanceMembers (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstance (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObject (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadRoot (System.Xml.Serialization.XmlTypeMapping rootMap)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadRoot ()
+System.Xml.Serialization.XmlSerializer.Deserialize (System.Xml.Serialization.XmlSerializationReader reader)
+Rethrow as Exception: Failed to deserialize XMLFileAsset: Plugins/Kits/Kits.configuration.xml
+Rocket.Core.Assets.XMLFileAsset`1[fr34kyn01535.Kits.KitsConfiguration].Load (Rocket.Core.Assets.AssetLoaded`1 callback, Boolean update)
+Rocket.Core.Assets.XMLFileAsset`1[fr34kyn01535.Kits.KitsConfiguration]..ctor (System.String file, System.Type[] extraTypes, fr34kyn01535.Kits.KitsConfiguration defaultInstance)
+Rocket.Core.Plugins.RocketPlugin`1[TConfiguration].LoadPlugin ()
+Rocket.Core.Plugins.RocketPlugin.OnEnable ()
+UnityEngine.GameObject:.ctor(String, Type[])
+Rocket.Core.Plugins.RocketPluginManager:loadPlugins()
+Rocket.Core.Plugins.RocketPluginManager:Start()
+
+[10/17/2015 9:26:45 AM] [Info] Loading plugin: MessageAnnouncer
+[10/17/2015 9:26:45 AM] [Info] MessageAnnouncer >> Load
+[10/17/2015 9:26:45 AM] [Info] Loading plugin: Uconomy
+[10/17/2015 9:26:45 AM] [Error] Could not find dependency: I18N.West, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756
+[10/17/2015 9:26:45 AM] [Error] Failed to load Uconomy, unloading now... :System.IO.FileNotFoundException: Could not load file or assembly 'I18N.West, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756' or one of its dependencies.
+File name: 'I18N.West, Version=2.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756'
+  at fr34kyn01535.Uconomy.Uconomy.Load () [0x00000] in <filename unknown>:0 
+  at Rocket.Core.Plugins.RocketPlugin.LoadPlugin () [0x00000] in <filename unknown>:0 
+[10/17/2015 9:26:45 AM] [Info] Unloading plugin: Uconomy
+[10/17/2015 9:26:45 AM] [Info] Loading plugin: ZaupClearInventoryLib
+[10/17/2015 9:26:45 AM] [Info] Loading plugin: ZaupFeast
+[10/17/2015 9:26:46 AM] [Info] ZaupFeast >> The next feast will be at Wiltshire Farm at 10/17/2015 9:56:46 AM
+[10/17/2015 9:26:46 AM] [Info] This server will automatically save every 1800 seconds
+[10/17/2015 9:26:47 AM] [Info] MessageAnnouncer >> Welcome to our server
+[10/17/2015 9:27:17 AM] [Info] MessageAnnouncer >> On our server there that command:/rules!
+[10/17/2015 9:27:47 AM] [Info] MessageAnnouncer >> In which you can see the server rules.
+[10/17/2015 9:28:17 AM] [Info] MessageAnnouncer >> You can help by purchasing a server privilege!
