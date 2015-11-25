@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UconomyConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DatabaseAddress>sql4.freemysqlhosting.net</DatabaseAddress>
+  <DatabaseUsername>sql497608</DatabaseUsername>
+  <DatabasePassword>7H7zCvZTK8</DatabasePassword>
+  <DatabaseName>sql497608</DatabaseName>
+  <DatabaseTableName>uconomy</DatabaseTableName>
+  <DatabasePort>3306</DatabasePort>
+  <InitialBalance>15</InitialBalance>
+  <MoneyName>EU</MoneyName>
+</UconomyConfiguration>

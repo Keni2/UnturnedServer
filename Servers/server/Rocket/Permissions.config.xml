@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <RocketPermissions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <DefaultGroupId>454</DefaultGroupId>
   <Groups>
@@ -12,15 +12,15 @@
         <Command>balance</Command>
         <Command>p</Command>
         <Command>pay</Command>
-	<Command>rules</Command>
-    <Command>adminstrators</Command>
-	<Command>fraction</Command>
-	<Command>vip</Command>
-	<Command>правила</Command>
-	<Command>админы</Command>
-	<Command>фракция</Command>
-	<Command>випы</Command>
-	<Command></Command>
+        <Command>rules</Command>
+        <Command>adminstrators</Command>
+        <Command>fraction</Command>
+        <Command>vip</Command>
+        <Command>правила</Command>
+        <Command>админы</Command>
+        <Command>фракция</Command>
+        <Command>випы</Command>
+        <Command />
       </Commands>
       <ParentGroups />
     </Group>
@@ -58,7 +58,7 @@
       <DisplayName>[P.K.S.]</DisplayName>
       <Members>
         <Member>76561198099235050</Member>
-		<Member>Viton_E</Member>
+        <Member>Viton_E</Member>
       </Members>
       <Commands>
         <Command>givekit.4</Command>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MessageAnnouncerConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Interval>30</Interval>
   <Messages>
@@ -7,26 +7,26 @@
     <Message Text="In which you can see the server rules." Color="Green" />
     <Message Text="You can help by purchasing a server privilege!" Color="Green" />
     <Message Text="Regarding the aid, Donat, create a faction,write Tiger" Color="Red" />
-	<Message Text="Or write to the VK.ID fill_cross" Color="Green" />
+    <Message Text="Or write to the VK.ID fill_cross" Color="Green" />
     <Message Text="Check the list of administrators:/adminstrators" Color="Green" />
     <Message Text="Check the list of factions:/fraction" Color="Green" />
     <Message Text="VIP players get a list with the command:/vips" Color="Green" />
     <Message Text="If you can not see the airplane, then set the detail on ultra!" Color="Green" />
-	<Message Text="You can take a starter kit command /givekit Start" Color="Green" />	
+    <Message Text="You can take a starter kit command /givekit Start" Color="Green" />
     <Message Text="Good luck!" Color="Green" />
     <Message Text="Добро пожаловать на наш сервер" Color="Green" />
     <Message Text="На нашем сервере есть команда:/правила!" Color="Green" />
     <Message Text="В котором вы можете ознакомиться с правилами сервера." Color="Green" />
     <Message Text="Вы может помочь серверу купив привилегию!" Color="Green" />
     <Message Text="Что касается помощи, Доната, создания фракции, писать Tiger'у" Color="Red" />
-	<Message Text="Или же писать в ВК.ID fill_cross" Color="Green" />
+    <Message Text="Или же писать в ВК.ID fill_cross" Color="Green" />
     <Message Text="Проверить список администраторов командой:/админы" Color="Green" />
     <Message Text="Проверить список фракций можно командой:/фракция" Color="Green" />
     <Message Text="Узнать список вип игроков можна командой:/випы" Color="Green" />
     <Message Text="Если вы не видите самолет который сбрасывает аирдроп, повысьте..." Color="Green" />
     <Message Text="....детализацию на ультра!" Color="Green" />
-    <Message Text="Вы можете взять стартовый кит командой /givekit Start" Color="Green" />	
-	<Message Text="Удачной игры!" Color="Green" />
+    <Message Text="Вы можете взять стартовый кит командой /givekit Start" Color="Green" />
+    <Message Text="Удачной игры!" Color="Green" />
   </Messages>
   <TextCommands>
     <TextCommand>

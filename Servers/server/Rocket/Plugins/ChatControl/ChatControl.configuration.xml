@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ChatControlConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AnnounceMute>true</AnnounceMute>
   <AnnounceUnmute>true</AnnounceUnmute>
@@ -17,13 +17,13 @@
     <string>сервер параша</string>
     <string>идите нахуй</string>
     <string>админ хуй</string>
-	<string>витон хуй</string>
-	<string>тигер хуй</string>
-	<string>can i get admin</string>
-	<string>дайте админку</string>
-	<string>можно админку ?</string>
-	<string>дайте админку пожалуйста</string>
-	<string>админ го в скайп</string>
+    <string>витон хуй</string>
+    <string>тигер хуй</string>
+    <string>can i get admin</string>
+    <string>дайте админку</string>
+    <string>можно админку ?</string>
+    <string>дайте админку пожалуйста</string>
+    <string>админ го в скайп</string>
   </Badwords>
   <WarningsBeforeMute>3</WarningsBeforeMute>
   <WarningsBeforeKick>5</WarningsBeforeKick>

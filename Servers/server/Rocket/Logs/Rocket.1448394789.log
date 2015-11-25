@@ -1,0 +1,104 @@
+[11/24/2015 9:49:54 PM] [Error] Invalid or outdated plugin assembly: ApokCore
+[11/24/2015 9:49:55 PM] [Info] Loading plugin: AutoShutdown2
+[11/24/2015 9:49:55 PM] [Info] AutoShutdown2 >>  Version 0.5.1 loaded.
+[11/24/2015 9:49:55 PM] [Info] Loading plugin: ChatControl
+[11/24/2015 9:49:55 PM] [Info] Adding UnturnedPlayerComponent: ChatControlPlayerComponent
+[11/24/2015 9:49:55 PM] [Info] Loading plugin: GiveKit
+[11/24/2015 9:49:55 PM] [Error] OverflowException: Value too large or too small. - System.Int32.Parse (System.String s, NumberStyles style, IFormatProvider provider)
+System.Xml.XmlConvert.ToInt32 (System.String s)
+System.Xml.Serialization.XmlCustomFormatter.FromXmlString (System.Xml.Serialization.TypeData type, System.String value)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.GetValueFromXmlString (System.String value, System.Xml.Serialization.TypeData typeData, System.Xml.Serialization.XmlTypeMapping typeMap)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadPrimitiveValue (System.Xml.Serialization.XmlTypeMapElementInfo elem)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObjectElement (System.Xml.Serialization.XmlTypeMapElementInfo elem)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadMembers (System.Xml.Serialization.ClassMap map, System.Object ob, Boolean isValueList, Boolean readByOrder)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstanceMembers (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstance (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObject (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObjectElement (System.Xml.Serialization.XmlTypeMapElementInfo elem)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadListElement (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, System.Object list, Boolean canCreateInstance)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadMembers (System.Xml.Serialization.ClassMap map, System.Object ob, Boolean isValueList, Boolean readByOrder)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstanceMembers (System.Xml.Serialization.XmlTypeMapping typeMap, System.Object ob)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadClassInstance (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadObject (System.Xml.Serialization.XmlTypeMapping typeMap, Boolean isNullable, Boolean checkType)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadRoot (System.Xml.Serialization.XmlTypeMapping rootMap)
+System.Xml.Serialization.XmlSerializationReaderInterpreter.ReadRoot ()
+System.Xml.Serialization.XmlSerializer.Deserialize (System.Xml.Serialization.XmlSerializationReader reader)
+Rethrow as Exception: Failed to deserialize XMLFileAsset: Plugins/Kits/Kits.configuration.xml
+Rocket.Core.Assets.XMLFileAsset`1[fr34kyn01535.Kits.KitsConfiguration].Load (Rocket.Core.Assets.AssetLoaded`1 callback, Boolean update)
+Rocket.Core.Assets.XMLFileAsset`1[fr34kyn01535.Kits.KitsConfiguration]..ctor (System.String file, System.Type[] extraTypes, fr34kyn01535.Kits.KitsConfiguration defaultInstance)
+Rocket.Core.Plugins.RocketPlugin`1[TConfiguration].LoadPlugin ()
+Rocket.Core.Plugins.RocketPlugin.OnEnable ()
+UnityEngine.GameObject:.ctor(String, Type[])
+Rocket.Core.Plugins.RocketPluginManager:loadPlugins()
+Rocket.Core.Plugins.RocketPluginManager:Start()
+
+[11/24/2015 9:49:56 PM] [Info] Loading plugin: MessageAnnouncer
+[11/24/2015 9:49:56 PM] [Info] MessageAnnouncer >> Load
+[11/24/2015 9:49:56 PM] [Info] Loading plugin: Uconomy
+[11/24/2015 9:50:07 PM] [Exception] Uconomy >> Exception in Uconomy: MySql.Data.MySqlClient.MySqlException: Authentication to host 'localhost' for user 'unturned' using method 'mysql_native_password' failed with message: Access denied for user 'unturned'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException: Access denied for user 'unturned'@'localhost' (using password: YES)
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (Boolean reset) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, Boolean reset) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x00000] in <filename unknown>:0 
+[11/24/2015 9:50:07 PM] [Info] Loading plugin: ZaupClearInventoryLib
+[11/24/2015 9:50:07 PM] [Info] Loading plugin: ZaupFeast
+[11/24/2015 9:50:07 PM] [Info] ZaupFeast >> The next feast will be at Clearwater Campground at 11/24/2015 10:20:17 PM
+[11/24/2015 9:50:07 PM] [Info] Loading plugin: ZaupShop
+[11/24/2015 9:50:07 PM] [Exception] ZaupShop >> Exception in ZaupShop: MySql.Data.MySqlClient.MySqlException: Authentication to host 'localhost' for user 'unturned' using method 'mysql_native_password' failed with message: Access denied for user 'unturned'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException: Access denied for user 'unturned'@'localhost' (using password: YES)
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (Boolean reset) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, Boolean reset) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x00000] in <filename unknown>:0 
+[11/24/2015 9:50:07 PM] [Exception] ZaupShop >> Exception in ZaupShop: MySql.Data.MySqlClient.MySqlException: Authentication to host 'localhost' for user 'unturned' using method 'mysql_native_password' failed with message: Access denied for user 'unturned'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException: Access denied for user 'unturned'@'localhost' (using password: YES)
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (Boolean reset) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, Boolean reset) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x00000] in <filename unknown>:0 
+[11/24/2015 9:50:07 PM] [Exception] ZaupShop >> Exception in ZaupShop: MySql.Data.MySqlClient.MySqlException: Authentication to host 'localhost' for user 'unturned' using method 'mysql_native_password' failed with message: Access denied for user 'unturned'@'localhost' (using password: YES) ---> MySql.Data.MySqlClient.MySqlException: Access denied for user 'unturned'@'localhost' (using password: YES)
+  at MySql.Data.MySqlClient.MySqlStream.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (Boolean reset) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, Boolean reset) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x00000] in <filename unknown>:0 
+[11/24/2015 9:50:07 PM] [Info] Loading plugin: ZaupUconomyEssentials
+[11/24/2015 9:50:07 PM] [Info] Adding UnturnedPlayerComponent: PlayerUE
+[11/24/2015 9:50:07 PM] [Info] This server will automatically save every 1800 seconds
+[11/24/2015 9:50:09 PM] [Info] MessageAnnouncer >> Welcome to our server
+[11/24/2015 9:50:17 PM] [Info] Unloading plugin: GiveKit
+[11/24/2015 9:50:17 PM] [Info] Unloading plugin: MessageAnnouncer
+[11/24/2015 9:50:17 PM] [Info] MessageAnnouncer >> Unload
+[11/24/2015 9:50:17 PM] [Info] Unloading plugin: ChatControl
+[11/24/2015 9:50:17 PM] [Info] Unloading plugin: ZaupClearInventoryLib
+[11/24/2015 9:50:17 PM] [Info] Unloading plugin: ZaupShop
+[11/24/2015 9:50:17 PM] [Info] Unloading plugin: Kits
+[11/24/2015 9:50:17 PM] [Info] Unloading plugin: ZaupUconomyEssentials
+[11/24/2015 9:50:17 PM] [Info] Unloading plugin: AutoShutdown2
+[11/24/2015 9:50:17 PM] [Info] Unloading plugin: ZaupFeast
+[11/24/2015 9:50:17 PM] [Info] Unloading plugin: Uconomy

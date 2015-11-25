@@ -20,7 +20,7 @@
         <Item id="108" amount="2" />
         <Item id="146" amount="1" />
       </Items>
-      <Cooldown>999999999999999999999999999999999</Cooldown>
+      <Cooldown>1E+33</Cooldown>
     </Kit>
     <Kit>
       <Name>1</Name>
